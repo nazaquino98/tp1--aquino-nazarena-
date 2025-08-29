@@ -1,0 +1,1 @@
+{"version":3,"file":"ICompetidor.d.ts","sourceRoot":"","sources":["../../src/interfaces/ICompetidor.ts"],"names":[],"mappings":"AAAA,OAAO,KAAI,EAAE,cAAc,EAAE,MAAM,kBAAkB,CAAC;AAEtD,MAAM,WAAW,WAAY,SAAQ,cAAc;IAC/C,MAAM,EAAE,MAAM,CAAC;IACf,iBAAiB,IAAG,MAAM,EAAE,CAAC;CAChC"}
