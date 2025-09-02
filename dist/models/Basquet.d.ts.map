@@ -1,1 +1,1 @@
-{"version":3,"file":"Basquet.d.ts","sourceRoot":"","sources":["../../src/models/Basquet.ts"],"names":[],"mappings":""}
+{"version":3,"file":"Basquet.d.ts","sourceRoot":"","sources":["../../src/models/Basquet.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,cAAc,CAAC;AACvC,OAAO,EAAE,MAAM,EAAE,MAAM,aAAa,CAAC;AAErC,qBAAa,OAAQ,SAAQ,OAAO;;IAKhC,OAAO,CAAC,MAAM,EAAE,MAAM,GAAG,OAAO;CAOnC"}

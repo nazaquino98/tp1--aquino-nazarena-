@@ -1,1 +1,1 @@
-{"version":3,"file":"Futbol.d.ts","sourceRoot":"","sources":["../../src/models/Futbol.ts"],"names":[],"mappings":""}
+{"version":3,"file":"Futbol.d.ts","sourceRoot":"","sources":["../../src/models/Futbol.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,cAAc,CAAC;AACvC,OAAO,EAAE,MAAM,EAAE,MAAM,aAAa,CAAC;AAErC,qBAAa,MAAO,SAAQ,OAAO;;IAK/B,OAAO,CAAC,MAAM,EAAE,MAAM,GAAG,OAAO;CAOnC"}

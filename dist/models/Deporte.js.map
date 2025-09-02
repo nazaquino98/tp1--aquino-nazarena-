@@ -1,1 +1,1 @@
-{"version":3,"file":"Deporte.js","sourceRoot":"","sources":["../../src/models/Deporte.ts"],"names":[],"mappings":""}
+{"version":3,"file":"Deporte.js","sourceRoot":"","sources":["../../src/models/Deporte.ts"],"names":[],"mappings":"AAEA,MAAM,OAAgB,OAAO;IACzB,MAAM,CAAS;IACf,YAAY,CAAS;IAErB,YAAY,MAAa,EAAE,YAAoB;QAC3C,IAAI,CAAC,MAAM,GAAG,MAAM,CAAC;QACrB,IAAI,CAAC,YAAY,GAAG,YAAY,CAAC;IACrC,CAAC;CAGJ"}

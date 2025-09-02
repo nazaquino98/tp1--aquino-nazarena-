@@ -1,5 +1,5 @@
-import { IIdentificable } from "../interfaces/IIdentificable";
-import { Partido } from "./Partido";
+import { IIdentificable } from "../interfaces/IIdentificable.js";
+import { Partido } from "./Partido.js";
 
 export class Torneo implements IIdentificable {
   readonly id: string;

@@ -1,4 +1,4 @@
-import { Equipo } from "./Equipo";
+import { Equipo } from "./Equipo.js";
 
 export abstract class Deporte {
     nombre: string;

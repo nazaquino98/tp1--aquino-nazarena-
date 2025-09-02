@@ -1,5 +1,5 @@
-import { ICompetidor } from "../interfaces/ICompetidor";
-import { Jugador } from "./Jugador";
+import { ICompetidor } from "../interfaces/ICompetidor.js";
+import { Jugador } from "./Jugador.js";
 
 export class Equipo implements ICompetidor{
     readonly id: string;
@@ -16,7 +16,7 @@ export class Equipo implements ICompetidor{
     agregarJugador(jugador:Jugador): void{
         const existe = this.jugadores.find(jugador => jugador.id === jugador.id);
         if (existe){
-            console.log(`El jugador con id ${jugador.id} ya esta en el equipo ${this.nombre}`);
+            console.log(`El jugador ${jugador.nombre} ya forma parte del equipo ${this.nombre}`);
         }
         this.jugadores.push(jugador)
     }
@@ -31,6 +31,6 @@ export class Equipo implements ICompetidor{
     }
 
     toString(): string{
-        return `El equipo ${this.nombre} id: ${this.id} tiene ${this.cantidad} de jugadores`;
+        return `El equipo ${this.nombre} tiene ${this.cantidad} de jugadores`;
     }
 }

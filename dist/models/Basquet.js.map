@@ -1,1 +1,1 @@
-{"version":3,"file":"Basquet.js","sourceRoot":"","sources":["../../src/models/Basquet.ts"],"names":[],"mappings":""}
+{"version":3,"file":"Basquet.js","sourceRoot":"","sources":["../../src/models/Basquet.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,cAAc,CAAC;AAGvC,MAAM,OAAO,OAAQ,SAAQ,OAAO;IAChC;QACI,KAAK,CAAC,SAAS,EAAE,CAAC,CAAC,CAAC;IACxB,CAAC;IAED,OAAO,CAAC,MAAc;QAClB,IAAI,MAAM,CAAC,QAAQ,GAAG,IAAI,CAAC,YAAY,EAAC,CAAC;YACrC,OAAO,CAAC,GAAG,CAAC,aAAa,MAAM,CAAC,MAAM,6BAA6B,CAAC,CAAC;YACrE,OAAO,KAAK,CAAC;QACjB,CAAC;;YACD,OAAO,IAAI,CAAC;IAChB,CAAC;CACJ"}

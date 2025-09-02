@@ -1,4 +1,4 @@
-import { IIdentificable } from "../interfaces/IIdentificable";
+import { IIdentificable } from "../interfaces/IIdentificable.js";
 
 export class Jugador implements IIdentificable {
     readonly id: string;
